@@ -1,3 +1,3 @@
-module github.com/be-edu/weather2
+module github.com/be-edu/mod-example
 
 go 1.17
